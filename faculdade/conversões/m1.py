@@ -2,8 +2,8 @@
 #Lucas Correia
 
 def binario_para_decimal(num_binario):
-    num_decimal = int(num_binario, 2)
-    return num_decimal
+    numero_decimal = int(num_binario, 2)
+    return numero_decimal
 
 
 num_binario = input("Digite o número binário: ")
